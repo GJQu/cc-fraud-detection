@@ -1,0 +1,13 @@
+data/
+logs/
+*.csv
+*.parquet
+
+.env
+secrets.yaml
+credentials.json
+
+venv/
+.DS_Store
+
+.vscode/
